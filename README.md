@@ -7,4 +7,4 @@
 - ⚡ Fun fact: I am a fan of Chelsea F.C.😁😁
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elhameed)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elhameed&theme=solarized-light_icons=true)](https://github.com/anuraghazra/github-readme-stats)
