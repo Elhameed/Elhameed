@@ -7,8 +7,8 @@
 - ⚡ Fun fact: I am a fan of Chelsea F.C.😁😁
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=Elhamed&show_icons=true&theme=solarized-light&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=betascribbles&show_icons=true&theme=jolly&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elhameed&langs_count=8&theme=solarized-light&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betascribbles&langs_count=8&theme=jolly&layout=compact" />
 </a>
