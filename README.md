@@ -6,5 +6,5 @@
 - 📫 How to reach me: [e-mail](teniolaajani2004@gmail.com)
 - ⚡ Fun fact: I am a fan of Chelsea F.C.😁😁
 
-***
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elhameed)](https://github.com/anuraghazra/github-readme-stats)
