@@ -6,5 +6,9 @@
 - 📫 How to reach me: [e-mail](https://mail.google.com/mail/u/0/#inbox)
 - ⚡ Fun fact: I am a fan of Chelsea F.C.😁😁
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elhameed&theme=solarized-light_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=Elhamed&show_icons=true&theme=solarized-light&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elhameed&langs_count=8&theme=solarized-light&layout=compact" />
+</a>
