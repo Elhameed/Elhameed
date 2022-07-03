@@ -3,7 +3,7 @@
 - 🔭 I’m currently learning Software Engineering at Alx-Africa
 - 🌱 I’m interested in levelling up my skills in Programming and Ethical Hacking
 - 👯 I’m aspiring to become a Full-Stack Software Engineer and Ethical Hacker/Penetration Tester
-- 📫 How to reach me: [teniolaajani2004@gmail.com]
+- 📫 How to reach me: teniolaajani2004@gmail.com
 - ⚡ Fun fact: I am a fan of Chelsea F.C.😁😁
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
