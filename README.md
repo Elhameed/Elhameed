@@ -1,4 +1,4 @@
-## Hi there 👋, I am Abdulhamed
+## Hi there 👋, I am Abdulhameed
 
 - 📫 I’m currently learning Software Engineering at Alx-Africa
 - 💻 I’m interested in levelling up my skills in Programming and Ethical Hacking
