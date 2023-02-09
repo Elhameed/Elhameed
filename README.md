@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elhameed" alt="elhameed" /></a> </p>
 
-- 🔭 I’m currently working on **Creating and designing visually appealing and user-friendly interfaces for websites and web applications.**
+- 🔭 I’m currently working on **creating and designing visually appealing and user-friendly interfaces for websites and web applications.**
 
 - 🌱 I’m currently learning **Software Engineering at The African Leadership University**
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at: [https://teniolaajani.netlify.app/](https://teniolaajani.netlify.app/)
 
