@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at: [https://teniolaajani.netlify.app/](https://teniolaajani.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://teniolaajani.netlify.app/)
 
 - 📫 How to reach me: **a.ajani@alustudent.com**
 
