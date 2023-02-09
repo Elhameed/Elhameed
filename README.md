@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [https://teniolaajani.netlify.app/](https://teniolaajani.netlify.app/)
+- 👨‍💻 All of my projects are available at: [https://teniolaajani.netlify.app/](https://teniolaajani.netlify.app/)
 
-- 📫 How to reach me **a.ajani@alustudent.com**
+- 📫 How to reach me: **a.ajani@alustudent.com**
 
-- ⚡ Fun fact **I love watching movies**
+- ⚡ Fun fact: **I love watching movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
