@@ -29,12 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=elhameed&show_icons=true&theme=&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhameed&langs_count=8&theme=&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhameed&langs_count=8&theme=" />
 </a>
-
-
-
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elhameed&" alt="elhameed" /></p>
