@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software Engineering at The African Leadership University**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯I am looking for opportunities to collaborate on **open source projects, internships, hackathons, and entry-level positions.**
 
 - 👨‍💻 All of my projects are available [here](https://teniolaajani.netlify.app/)
 
