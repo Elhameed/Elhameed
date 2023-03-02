@@ -6,6 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elhameed" alt="elhameed" /></a> </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 - 🔭 I’m currently working on **creating and designing visually appealing and user-friendly interfaces for websites and web applications.**
 
 - 🌱 I’m currently learning **Software Engineering at The African Leadership University**
@@ -17,10 +21,6 @@
 - 📫 How to reach me: **a.ajani@alustudent.com**
 
 - ⚡ Fun fact: **I love watching movies**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
