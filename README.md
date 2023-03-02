@@ -1,3 +1,4 @@
+<img alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Abdulhameed Ajani</h1>
 <h3 align="center">A Front-end Developer and Software Engineer from Nigeria.</h3>
 
