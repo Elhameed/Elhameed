@@ -6,10 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elhameed" alt="elhameed" /></a> </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 - 🔭 I’m currently working on **creating and designing visually appealing and user-friendly interfaces for websites and web applications.**
 
 - 🌱 I’m currently learning **Software Engineering at The African Leadership University**
@@ -37,6 +33,10 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhameed&langs_count=8&theme=gruvbox_light&layout=compact" />
-</a>
+</a>                  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elhameed&theme=dark" alt="elhameed" /></p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
