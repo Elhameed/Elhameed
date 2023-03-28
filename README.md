@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=elhameed)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=elhameed&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **creating and designing visually appealing and user-friendly interfaces for websites and web applications.**
 
