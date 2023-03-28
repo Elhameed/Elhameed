@@ -27,10 +27,10 @@
 
 ## 📊 GitHub Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elhameed&show_icons=true&theme=gruvbox_light&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=elhameed&show_icons=true&theme=gruvbox_light&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhameed&langs_count=8&theme=gruvbox_light&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhameed&langs_count=8&theme=gruvbox_light&layout=compact" />
 </a>                  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elhameed&theme=dark" alt="elhameed" /></p>
